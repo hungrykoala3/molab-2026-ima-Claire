@@ -1,3 +1,4 @@
+//inspired by https://emojicombos.com/event-horizon?sort=recent
 import Foundation
 
 let cosmicUniverse = #"""
